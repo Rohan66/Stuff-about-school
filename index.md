@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## School can help kids learn.They can have fun at school.
 
 You can use the [editor on GitHub](https://github.com/Rohan66/Stuff-about-school/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
